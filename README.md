@@ -1,2 +1,2 @@
-# quieras
-Quieras
+# Resources
+Resources for different projects.
